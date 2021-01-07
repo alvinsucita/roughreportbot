@@ -1,0 +1,14 @@
+{
+    "name": "alvin/reportbot",
+    "description": "Simple Report Bot",
+    "type": "project",
+    "require": {
+        "danog/madelineproto": "dev-master"
+    },
+    "license": "AGPL-3.0-only",
+    "autoload": {
+        "psr-0": {
+            "Your\\Project\\": "src/"
+        }
+    }
+}
