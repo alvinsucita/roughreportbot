@@ -1,1 +1,1 @@
-Made by [MadelineProto](https://github.com/danog/MadelineProto/).
+Made with [MadelineProto](https://github.com/danog/MadelineProto/).
